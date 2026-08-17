@@ -1,8 +1,10 @@
 # Untitled
 
 ```mermaid
-sequenceDiagram
-  participant Abstract_class
-  participant Class
-%% mermade:{"v":1,"diagramType":"sequence","nodes":{"Class":{"x":276,"y":40,"w":148,"h":48,"kind":"participant","members":[]},"Abstract_class":{"x":80,"y":40,"w":148,"h":48,"kind":"participant","members":[]}},"groups":{},"edges":{}}
+erDiagram
+  CLASS {
+  }
+  ABSTRACT_CLASS {
+  }
+%% mermade:{"v":1,"diagramType":"er","nodes":{"CLASS":{"x":240,"y":29,"w":220,"h":70,"kind":"entity","members":[]},"ABSTRACT_CLASS":{"x":44,"y":29,"w":220,"h":70,"kind":"entity","members":[]}},"groups":{},"edges":{}}
 ```
