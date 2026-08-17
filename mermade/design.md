@@ -11,5 +11,5 @@ classDiagram
     +method()
   }
   Class_2jjjjjkk --|> Class
-%% mermade:{"v":1,"diagramType":"class","nodes":{"Class":{"x":384.95703125,"y":207.69140625,"w":220,"h":88,"kind":"class","members":["+field: Type","+method()"]},"Class_2jjjjjkk":{"x":678.7795758928572,"y":295.69140625,"w":220,"h":88,"kind":"class","members":["+field: Type","+method()"]}},"groups":{},"edges":{"e1":{"relation":"extends","label":""}}}
+%% mermade:{"v":1,"diagramType":"class","nodes":{"Class":{"x":384.95703125,"y":207.69140625,"w":220,"h":88,"kind":"class","members":["+field: Type","+method()"]},"Class_2jjjjjkk":{"x":684.0223214285713,"y":295.69140625,"w":220,"h":88,"kind":"class","members":["+field: Type","+method()"]}},"groups":{},"edges":{"e1":{"relation":"extends","label":""}}}
 ```
