@@ -1,10 +1,8 @@
 # Untitled
 
 ```mermaid
-erDiagram
-  CLASS {
-  }
-  ABSTRACT_CLASS {
-  }
-%% mermade:{"v":1,"diagramType":"er","nodes":{"CLASS":{"x":240,"y":29,"w":220,"h":70,"kind":"entity","members":[]},"ABSTRACT_CLASS":{"x":44,"y":29,"w":220,"h":70,"kind":"entity","members":[]}},"groups":{},"edges":{}}
+flowchart TD
+  Class[Class]
+  Abstract_class[Abstract_class]
+%% mermade:{"v":1,"diagramType":"activity","nodes":{"Class":{"x":260,"y":40,"w":180,"h":48,"kind":"action","members":[]},"Abstract_class":{"x":64,"y":40,"w":180,"h":48,"kind":"action","members":[]}},"groups":{},"edges":{}}
 ```
