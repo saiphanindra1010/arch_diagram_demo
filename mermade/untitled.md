@@ -1,8 +1,8 @@
 # Untitled
 
 ```mermaid
-flowchart TD
+flowchart LR
   Class[Class]
   Abstract_class[Abstract_class]
-%% mermade:{"v":1,"diagramType":"activity","nodes":{"Class":{"x":260,"y":40,"w":180,"h":48,"kind":"action","members":[]},"Abstract_class":{"x":64,"y":40,"w":180,"h":48,"kind":"action","members":[]}},"groups":{},"edges":{}}
+%% mermade:{"v":1,"diagramType":"architecture","nodes":{"Class":{"x":250,"y":36,"w":200,"h":56,"kind":"service","members":[]},"Abstract_class":{"x":54,"y":36,"w":200,"h":56,"kind":"service","members":[]}},"groups":{},"edges":{}}
 ```
