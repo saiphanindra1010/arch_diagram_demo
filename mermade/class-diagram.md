@@ -1,4 +1,4 @@
-# class_diagramssss
+# class_diagramsssssss
 
 ```mermaid
 classDiagram
